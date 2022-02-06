@@ -23,10 +23,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Opdracht 1 plan
 
 <details open>
-  <summary>uitwerken na maken idee (voor week 2)</summary>
+  <summary>uitwerken na schetsen idee (voor week 2)</summary>
+
 
   ### Je storyboard:
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="storyboard voor opdracht 1">
+
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
@@ -44,17 +46,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken bij afronden opdracht (voor week 3)</summary>
 
+
   ### Je uitkomst - karakteristiek screenshot(s):
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitomst opdracht 1">
 
+
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatje(s)
+
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatje(s)
+
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
- 
 </details>
 
 
@@ -62,10 +68,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Opdracht 2 plan
 
 <details>
-  <summary>uitwerken na maken idee (voor week 4)</summary>
+  <summary>uitwerken na schetsen idee (voor week 4)</summary>
+
 
   ### Je ontwerp:
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="ontwerp opdracht 2">
+
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
@@ -73,7 +81,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - punt 2
   - nog een punt
   - ...
- 
 </details>
 
 
@@ -103,11 +110,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
+  ### Bevinding 2:
   ...
-
-
-
- 
 </details>
 
 
@@ -120,12 +124,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je uitkomst - karakteristiek screenshot(s):
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitkomst opdracht 2">
 
+
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatje(s)
+
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatje(s)
+
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
- 
 </details>
