@@ -110,7 +110,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-  ### Bevinding 2:
+  ### Bevinding 3:
   ...
 </details>
 
