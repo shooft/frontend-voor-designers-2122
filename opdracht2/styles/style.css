@@ -35,21 +35,9 @@ button, summary {
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
+	/* startje */
 	--color-main:#111;
 	--color-background:#eee;
-}
-
-
-
-
-
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
-body {
-  font-family:eenfont, sans-serif;
-  color:var(--color-main);
-  background-color:var(--color-background);
 }
 
 
@@ -59,4 +47,11 @@ body {
 /****************/
 /* JOUW STYLING */
 /****************/
+body {
+  font-family:eenfont, sans-serif;
+  color:var(--color-main);
+  background-color:var(--color-background);
+}
+
+/* jouw code */
 
