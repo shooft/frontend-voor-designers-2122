@@ -80,7 +80,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Opdracht 2 test
 
-<details open>
+<details>
   <summary>uitwerken na testen (week 6/7)</summary>
 
   Neem minimaal 5 bevindingen op:
