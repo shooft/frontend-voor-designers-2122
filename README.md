@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Opdracht 1 reflectie
 
 <details>
-  <summary>uitwerken bij afronden opdracht (voor week 3)</summary>
+  <summary>uitwerken bij afronden opdracht (voor week 4)</summary>
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
@@ -68,7 +68,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Opdracht 2 plan
 
 <details>
-  <summary>uitwerken na schetsen idee (voor week 4)</summary>
+  <summary>uitwerken na schetsen idee (voor week 5)</summary>
 
 
   ### Je ontwerp:
@@ -88,7 +88,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Opdracht 2 test
 
 <details>
-  <summary>uitwerken na testen (week 6/7)</summary>
+  <summary>uitwerken na testen (week 7)</summary>
 
   Neem minimaal 5 bevindingen op:
 
