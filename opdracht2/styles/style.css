@@ -23,7 +23,7 @@
   box-sizing:border-box;  
 }
 
-button, summary {
+button:not[disabled], summary {
 	cursor: pointer;
 }
 
